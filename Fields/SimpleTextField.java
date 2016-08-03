@@ -2,7 +2,7 @@
  * The sofware is provided under Mit License.
  * For the full copyright and license information, please view the LICENSE file.
  */
-package com_.javafxexamples.TextField;
+package com_.javafxexamples.Fields;
 
 import javafx.application.Application;
 import javafx.geometry.Insets;
@@ -27,7 +27,7 @@ public class SimpleTextField extends Application {
         
         primaryStage.setTitle("Simple TextField Example");
         
-        // You can set default text: new TextField("Button Text");
+        // You can set default text: new TextField("Default Value");
         TextField textInput = new TextField();
         textInput.setPromptText("Enter your name");
         // remove default focus
