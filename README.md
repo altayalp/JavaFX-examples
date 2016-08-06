@@ -1,3 +1,3 @@
-﻿# Javafx Gui Examples
+﻿# JavaFX Gui Examples
 
-Some simple and useful JavaFx examples
+Some simple and useful JavaFX examples
